@@ -1,0 +1,33 @@
+{ 
+  "name":"namaste-react",
+  "version":"1.0.0",
+  "description": "react app",
+  
+
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test":"jest"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragck12/Namaste-React"
+  }, 
+  "keywords": [],
+  "author": "Anurag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragck12/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/anuragck12/Namaste-React/blob/main/README.md",
+  
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
